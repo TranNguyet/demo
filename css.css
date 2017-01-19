@@ -133,7 +133,8 @@ background-color: white;
 }
 .select ul li{
   display: inline-table;
-  padding: 50px;
+  padding: 0px;
+  margin-right: 175px;
 }
 footer{
   text-align: center;
